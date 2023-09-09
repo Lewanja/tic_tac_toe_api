@@ -1,0 +1,6 @@
+version: '3'
+services:
+  tic_tac_toe_container:
+    build : tic_tac_toe
+    ports:
+          - '5000:5000'

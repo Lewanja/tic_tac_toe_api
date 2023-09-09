@@ -1,0 +1,6 @@
+.venv
+.dockerignore
+test.py
+.idea/
+__pycache__/
+env/
